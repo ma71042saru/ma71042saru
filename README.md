@@ -1,4 +1,4 @@
-### ma71042saru１
+### ma71042saru
 個人勉強用のリポジトリ
 <!--
 **ma71042saru/ma71042saru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
